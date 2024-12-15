@@ -1,0 +1,7 @@
+openai
+streamlit
+requests
+geocoder
+googlemaps
+python-dotenv
+pillow
